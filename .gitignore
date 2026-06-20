@@ -1,0 +1,12 @@
+*.Zone.Identifier
+*:Zone.Identifier
+structures/
+*.pse
+*.gro
+*.xtc
+*.trr
+*.tpr
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
