@@ -1,0 +1,2 @@
+"CID","ConnectivitySMILES","SMILES","MolecularFormula","MolecularWeight"
+73361,"CC(CCC(C)C(C)(C)C)C1CCC2C1(CCC3C2CC(C4C3(CC(C(C4)OS(=O)(=O)O)OS(=O)(=O)O)C)OS(=O)(=O)O)C","C[C@H](CC[C@H](C)C(C)(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@@H]4[C@@]3(C[C@@H]([C@H](C4)OS(=O)(=O)O)OS(=O)(=O)O)C)OS(=O)(=O)O)C","C29H52O12S3",688.9
